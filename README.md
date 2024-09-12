@@ -2,7 +2,6 @@ Node js basics
 
 For my personal reference
 It mainly consists of my first server code 
-
 1. Creating an HTTP Server
 Use the http module to create a server.
 Set up a request listener to handle incoming requests.
